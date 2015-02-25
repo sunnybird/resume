@@ -2,7 +2,7 @@
 ## 应届毕业生 & 开发者
 
 > [CSDN.NET](http://blog.csdn.net/jinlongfeng123/)
-> [jinlongfeng [at] ilve.com](mailto:jinlongfeng@live.com)
+> [jinlongfeng [at] live.com](mailto:jinlongfeng@live.com)
 > (+86) 182-8973-5030
 
 ------
@@ -47,8 +47,8 @@
 ------
 ### 教育
 
-**汉语言文学教育** __2000 ~ 2004__
-    西华师范大学
+**计算机课与技术** __2011 ~ 2015__
+    海南大学
 
 ------
 
@@ -58,20 +58,20 @@
     Debian、Ubuntu、CentOS、Gentoo、Arch Linux
 
 * **编程**
-    Shell Scripting、Perl、Python、Ruby、JavaScript
+    Go、Scala、Node.js
 
 * **阅读**
-    小说、经济、心理、计算机等书籍
+    文学、计算机等书籍
 
 ------
 
 ### 足迹
 
 * **GitHub**
-    [github.com/xuxiaodong](https://github.com/xuxiaodong)
+    [github.com](https://github.com/sunnybird)
 
 * **Twitter**
-    [twitter.com/xuxiaodong](https://twitter.com/xuxiaodong)
+    [zhihu.com](http://www.zhihu.com/people/jinlongfeng)
 
 * **LinkedIn**
     [linkedin.com/xuxiaodong](http://www.linkedin.com/pub/xiaodong-xu/62/319/7)
