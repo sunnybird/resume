@@ -21,9 +21,9 @@
 ------
 ### 项目经验
 
-* **每日一文** *Android*__2015.1__
-    [GitHub](http://linuxtoy.org)
-    创办于 2006 年，至始至终坚持原创，迄今已经积聚了一大批铁杆读者。
+* **每日一文** **Android**__2015.1__
+    [GitHub](https://github.com/sunnybird/Android)
+    该项目是抓取每日一文web的文章打造的Android应用,采用Bmob移动后台服务实现了文章评论的功能.
 
 
 
