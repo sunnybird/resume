@@ -1,5 +1,5 @@
 # 奉金龙
-## 应届毕业生 & 开发者
+## 应届毕业生 & 开发者        ！[Photo](./img/photo.jpg)
 
 > [Blog[at]csdn.net](http://blog.csdn.net/jinlongfeng123/)
 > [jinlongfeng [at] live.com](mailto:jinlongfeng@live.com)
