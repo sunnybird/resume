@@ -1,7 +1,7 @@
-# 徐小东
-## 系统管理员 & 开发者
+# 奉金龙
+## 应届毕业生 & 开发者
 
-> [linuxtoy.org](http://linuxtoy.org)
+> [CSDN.NET](http://blog.csdn.net/jinlongfeng123/)
 > [xxdlhy [at] gmail.com](mailto:xxdlhy@gmail.com)
 > (+86) 182-0109-6917
 
