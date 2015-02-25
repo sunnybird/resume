@@ -19,29 +19,12 @@
 
 
 ------
-### 项目
+### 项目经验
 
 * **Linuxtoy.org** __2006__
     [linuxtoy.org](http://linuxtoy.org)
     创办于 2006 年，至始至终坚持原创，迄今已经积聚了一大批铁杆读者。
 
-
-
-------
-
-### 代码
-
-* **tmuxen** *Shell*
-    [tmuxen](http://github.com/xuxiaodong/tmuxen)
-    使 tmux 生活更容易。
-
-* **~/bin** *Shell, Perl, Python, Ruby*
-    [bin](https://github.com/xuxiaodong/bin)
-    各种各样且方便实用的小工具。
-
-* **WebService::TaobaoIP** *Perl*
-    [WebService::TaobaoIP](https://metacpan.org/release/WebService-TaobaoIP)
-    定位 IP 物理信息的 Perl 模块。
 
 
 ------
@@ -54,8 +37,8 @@
 
 ### 兴趣
 
-* **GNU/Linux 系统管理**
-    Debian、Ubuntu、CentOS、Gentoo、Arch Linux
+* **分布式系统**
+    mongodb、spark
 
 * **编程**
     Go、Scala、Node.js
@@ -70,8 +53,8 @@
 * **GitHub**
     [github.com](https://github.com/sunnybird)
 
-* **Twitter**
+* **ZhiHu**
     [zhihu.com](http://www.zhihu.com/people/jinlongfeng)
 
-* **LinkedIn**
-    [linkedin.com/xuxiaodong](http://www.linkedin.com/pub/xiaodong-xu/62/319/7)
+* **Segmentfault**
+    [segmentfault.com](http://segmentfault.com/u/jinlongfeng123)
