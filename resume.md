@@ -1,7 +1,7 @@
 # 奉金龙
 ## 应届毕业生 & 开发者
 
-> [CSDN.NET](http://blog.csdn.net/jinlongfeng123/)
+> [Blog[at]csdn.net](http://blog.csdn.net/jinlongfeng123/)
 > [jinlongfeng [at] live.com](mailto:jinlongfeng@live.com)
 > (+86) 182-8973-5030
 
