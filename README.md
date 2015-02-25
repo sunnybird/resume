@@ -3,7 +3,7 @@
 ## 准备环境
 
 1. 安装 Node.js 模块：
-   `npm install`
+   `npm install  markdown-resume`
 2. 将本目录中的 CSS 文件复制到 `node_modules/markdown-resume/assets/css`：
    `cp *.css node_modules/markdown-resume/assets/css`
 
