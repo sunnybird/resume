@@ -2,25 +2,20 @@
 ## 应届毕业生 & 开发者
 
 > [CSDN.NET](http://blog.csdn.net/jinlongfeng123/)
-> [xxdlhy [at] gmail.com](mailto:xxdlhy@gmail.com)
-> (+86) 182-0109-6917
+> [jinlongfeng [at] ilve.com](mailto:jinlongfeng@live.com)
+> (+86) 182-8973-5030
 
 ------
 
 ### 技术
 
-1. GNU/Linux
-1. Shell Scripting
-1. Perl
-1. Python
-1. Ruby
-1. JavaScript / jQuery
-1. Bootstrap
+1. Java
+1. Android
+1. C++
+1. Hadoop/Spark
+1. Linux
 1. MySQL
-1. NGINX
-1. Squid
-1. Git
-1. Ansible
+1.Html/Js
 
 ------
 
