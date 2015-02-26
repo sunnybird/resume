@@ -6,7 +6,7 @@
    `npm install  markdown-resume`
 2. 将本目录中的 CSS 文件复制到 `node_modules/markdown-resume/assets/css`：
    `cp *.css node_modules/markdown-resume/assets/css`
-3. 生成PDF需要安装
+3. 生成PDF需要安装[wkhtmltopdf][pdf]
 
 ## 生成简历
 
@@ -16,3 +16,4 @@ node node_modules/markdown-resume/bin/md2resume --pdf resume.md # 生成 PDF 格
 ```
 
 [r]: https://github.com/davidhampgonsalves/resume
+[pdf]: https://github.com/pdfkit/pdfkit/wiki/Installing-WKHTMLTOPDF
