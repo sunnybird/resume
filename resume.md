@@ -1,4 +1,4 @@
-# 奉金龙          <img src="img/photo.jpg" width="100" height="100" />            
+# 奉金龙          <img src="http://7vzs25.com1.z0.glb.clouddn.com/viewphoto.action.jpg" width="100" height="100" />            
 ## 应届毕业生 & 开发者      
 > [Blog[at]csdn.net](http://blog.csdn.net/jinlongfeng123/)
 > [jinlongfeng [at] live.com](mailto:jinlongfeng@live.com)
