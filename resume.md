@@ -8,13 +8,14 @@
 
 ### 技术
 
-1. Java
-1. Android
-1. C++
-1. Hadoop/Spark
-1. Linux
-1. MySQL
-1. Html/Js
+1. Java                 *****
+1. Android              ****
+1. WindowsPhone         ***
+1. C++                  **
+1. Hadoop/Spark         **
+1. Linux                **
+1. MySQL                **
+1. Html/Js              **
 
 
 ------
