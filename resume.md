@@ -1,8 +1,8 @@
 # 奉金龙          <img src="http://7vzs25.com1.z0.glb.clouddn.com/viewphoto.action.jpg" width="100" height="100" />            
 ## 应届毕业生 & 开发者      
 > [Blog[at]csdn.net](http://blog.csdn.net/jinlongfeng123/)
-> [jinlongfeng [at] live.com](mailto:jinlongfeng@live.com)
-> (+86) 182-8973-5030
+> [EMail [at] live.com](mailto:jinlongfeng@live.com)
+> [TEL](+86) 182-8973-5030
 
 ------
 
