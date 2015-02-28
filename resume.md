@@ -2,7 +2,7 @@
 ## 应届毕业生 & 开发者      
 > [Blog[at]csdn.net](http://blog.csdn.net/jinlongfeng123/)
 > [Email [at] live.com](mailto:jinlongfeng@live.com)
-> [TEL](+86) 182-8973-5030
+> (+86) 182-8973-5030
 
 ------
 
