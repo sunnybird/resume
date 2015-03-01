@@ -9,14 +9,14 @@
 ### 技术
 
 1. Java          &emsp;       \*\*\*\*\*
-1. Android       &emsp;       **\*\*\*\***
-1. WindowsPhone  &emsp;       **\*\*\***
-1. C++           &emsp;       **\*\*\***
-1. Hadoop/Spark  &emsp;       **\*\***
-1. Linux         &emsp;       **\*\***
-1. MySQL         &emsp;       **\*\***
-1. Html/Js       &emsp;       **\*\***
-1. Git           &emsp;       **\*\***
+1. Android       &emsp;       \*\*\*\*
+1. WindowsPhone  &emsp;       \*\*\*
+1. C++           &emsp;       \*\*\*
+1. Hadoop/Spark  &emsp;       \*\*
+1. Linux         &emsp;       \*\*
+1. MySQL         &emsp;       \*\*
+1. Html/Js       &emsp;       \*\*
+1. Git           &emsp;       \*\*
 
 
 ------
