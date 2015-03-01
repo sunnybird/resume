@@ -8,7 +8,7 @@
 
 ### 技术
 
-1. Java          &emsp;       \*\*\*
+1. Java          &emsp;       \*\*\*\*\*
 1. Android       &emsp;       **\*\*\*\***
 1. WindowsPhone  &emsp;       **\*\*\***
 1. C++           &emsp;       **\*\*\***
