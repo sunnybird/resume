@@ -26,15 +26,15 @@ article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,summary
 <hr>
 <h3 id="-">技术</h3>
 <ol>
-<li>Java          &emsp;       <strong>*****</strong></li>
-<li>Android       &emsp;       <strong>****</strong></li>
-<li>WindowsPhone  &emsp;       <strong>***</strong></li>
-<li>C++           &emsp;       <strong>***</strong></li>
-<li>Hadoop/Spark  &emsp;       <strong>**</strong></li>
-<li>Linux         &emsp;       <strong>**</strong></li>
-<li>MySQL         &emsp;       <strong>**</strong></li>
-<li>Html/Js       &emsp;       <strong>**</strong></li>
-<li>Git           &emsp;       <strong>**</strong></li>
+<li>Java          &emsp;       <a>*****</a></li>
+<li>Android       &emsp;       <a>****</a></li>
+<li>WindowsPhone  &emsp;       <a>***</a></li>
+<li>C++           &emsp;       <a>***</a></li>
+<li>Hadoop/Spark  &emsp;       <a>**</a></li>
+<li>Linux         &emsp;       <a>**</a></li>
+<li>MySQL         &emsp;       <a>**</a></li>
+<li>Html/Js       &emsp;       <a>**</a></li>
+<li>Git           &emsp;       <a>**</a></li>
 </ol>
 <hr>
 <h3 id="-">项目经验</h3>
