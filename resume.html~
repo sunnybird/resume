@@ -38,12 +38,12 @@ article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,summary
 </ol>
 <hr>
 <h3 id="-">项目经验</h3>
-<p> <strong>每日一文</strong>  <em>Android</em>  <strong>2015.1</strong><br>    <a href="https://github.com/sunnybird/Android">GitHub</a><br>    该项目是抓取<a href="http://meiriyiwen.com">每日一文</a>网站的文章实现的Android应用,采用Bmob移动后台服务实现了文章评论的功能.使用到基于Android的HTTP网络编程技术，和Bmob的SDK.</p>
+<p> <strong>每日一文</strong>  <em>Android</em>  <strong>2015.1</strong><br>    <a href="https://github.com/sunnybird/Android">GitHub</a><br>    该项目是抓取<a href="http://meiriyiwen.com">每日一文</a>网站的文章实现的Android应用,采用Bmob移动后台服务实现了文章评论的功能.使用到基于Android的HTTP网络编程技术，和Bmob的SDK</p>
 <hr>
 <h3 id="-">奖项</h3>
-<p> <strong>2014微软创新杯海南赛区二等奖</strong>  <em>Android+JavaEE</em>  <strong>2014.3</strong><br>  该作品是web+移动端实现的订餐系统，实现了菜品浏览,在线预约，订单管理等以及商家管理等功能，我在该项目主要负责数据库设计,部分Web后台以及移动端后台开发.使用到Android HTTP/JSON/SSH等技术.</p>
-<p> <strong>人人网校园开发大赛华南区优秀作品</strong> <strong>JavaEE</strong> <strong>2013.4</strong><br>  该作品是一个web项目，主要提供了校园同学拼车服务，我在该项目主要负责数据库设计以及web后台开发设计.使用SSH/MySQL等技术.</p>
-<p> <strong>2012海南大学校园开发大赛三等奖</strong> <strong>JSP</strong> <strong>2012.11</strong><br>  该作品是一个web项目，主要提供校友信息发布服务，简单BBS功能,我在该项目主要负责数据库设计和web后台设计开发.使用到Servlet/MySQL等技术.</p>
+<p> <strong>2014微软创新杯海南赛区二等奖</strong>  <em>Android+JavaEE</em>  <strong>2014.3</strong><br>  该作品是web+移动端实现的订餐系统，实现了菜品浏览,在线预约，订单管理等以及商家管理等功能，我在该项目主要负责数据库设计,部分Web后台以及移动端后台开发.使用到Android HTTP/JSON/SSH等技术</p>
+<p> <strong>人人网校园开发大赛华南区优秀作品</strong> <strong>JavaEE</strong> <strong>2013.4</strong><br>  该作品是一个web项目，主要提供了校园同学拼车服务，我在该项目主要负责数据库设计以及web后台开发设计.使用SSH/MySQL等技术</p>
+<p> <strong>2012海南大学校园开发大赛三等奖</strong> <strong>JSP</strong> <strong>2012.11</strong><br>  该作品是一个web项目，主要提供校友信息发布服务，简单BBS功能,我在该项目主要负责数据库设计和web后台设计开发.使用到Servlet/MySQL等技术</p>
 <hr>
 <h3 id="-">教育</h3>
 <p><strong>计算机科学与技术</strong> <strong>2011 ~ 2015</strong><br>    海南大学</p>
